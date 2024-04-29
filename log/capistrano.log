@@ -1,0 +1,6 @@
+# Logfile created on 2024-04-29 14:58:40 +0300 by logger.rb/v1.5.1
+  INFO ---------------------------------------------------------------------------
+  INFO START 2024-04-29 14:58:40 +0300 cap local deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [682aa90a] Running /usr/bin/env mkdir -p /tmp as root@localhost
+ DEBUG [682aa90a] Command: /usr/bin/env mkdir -p /tmp
